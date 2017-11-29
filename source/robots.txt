@@ -1,0 +1,14 @@
+# hexo robots.txt
+User-agent: * 
+Allow: /
+Allow: /archives/
+Allow: /tags/
+Allow: /categories/
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+Sitemap: http://www.tosim.top/sitemap.xml
+Sitemap: http://www.tosim.top/baidusitemap.xml
